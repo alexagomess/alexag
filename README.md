@@ -5,18 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexagomess&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png">
-  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
-  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/color/48/000000/oracle-logo.png">
-  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
-   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/color/48/000000/tableau-software.png">
-   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/visual-studio.png">
-  
- 
- 
- 
-<div> 
   
   #
   #
