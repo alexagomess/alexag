@@ -1,4 +1,4 @@
-## Hi, I'm Túlio Costa. Passionate about Data Science and Data Analysis
+## Hi, I'm Alex Gomes. Passionate about Data Analysis.
 <div align="center">
   <a href="https://github.com/alexagomess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexagomess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
